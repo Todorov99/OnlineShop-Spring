@@ -1,0 +1,27 @@
+{
+  "email": "Vankata@gmail.com",
+  "names": {
+    "firstName": "Ivan",
+    "lastName": "Ivanov"
+  }
+}
+{
+  "email": "popov@gmail.com",
+  "names": {
+    "firstName": "Ivan",
+    "lastName": "Popov"
+  }
+}
+{
+  "email": "petko123@gmail.com",
+  "names": {
+    "firstName": "Petko",
+    "lastName": "Petkov"
+  }
+}{
+  "email": "erko@gmail.com",
+  "names": {
+    "firstName": "Erkan",
+    "lastName": "Erkanchev"
+  }
+}

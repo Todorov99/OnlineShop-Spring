@@ -1,0 +1,15 @@
+[
+  {
+    "category": {
+      "name": "Phones"
+    },
+    "brand": {
+      "name": "Iphone"
+    },
+    "model": "X",
+    "price": 1000.00,
+    "quantity": 1,
+    "discount": 5.0,
+    "promotionalPrice": 950.00
+  }
+]
